@@ -1,0 +1,26 @@
+h1 {
+    background-color: rgb(61, 110, 246);
+    padding: 10px;
+}
+
+#song_name {
+    box-shadow: gray;
+    padding: 12px;
+    font-size: 30px;
+}
+
+canvas{
+    background-color: rgb(135, 197, 248);
+    border: 10px,solid white ;
+    border-radius: 20px;
+    box-shadow: 5px, 5px, 5px, gray;
+    padding: 10px;
+    margin: 50px;
+}
+body{
+    background-size: cover;
+}
+
+span{
+    font-size: 20px;
+}
